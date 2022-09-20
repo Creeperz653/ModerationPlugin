@@ -1,0 +1,4 @@
+name: Moderation
+version: 1.0.0
+authors: [ Creeperz653, RealYusufIsmail]
+main: xyz.creepernation.moderation.ModerationPlugin
