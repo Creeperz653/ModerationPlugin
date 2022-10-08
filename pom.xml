@@ -13,19 +13,13 @@
             <id>bluetree242-repo</id>
             <url>https://repo.bluetree242.ml/repository/maven-public/</url>
         </repository>
-
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-
     </repositories>
 
     <dependencies>
         <dependency>
             <groupId>me.bluetree242.prebot</groupId>
             <artifactId>core</artifactId>
-            <version>1.0.0_alpha1</version>
+            <version>1.0.0_alpha1-47a42d3-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
